@@ -35,3 +35,4 @@ Basic HTML
 |sub| subscript|
 |sup| superscript|
 |u| underline|
+|style varname| varname is a class and all sytles are applied|
